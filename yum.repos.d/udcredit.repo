@@ -1,0 +1,11 @@
+[udcredit-base]
+name=Extra Packages for UD Networks - $basearch
+baseurl=ftp://serv.bd1.udcredit.com/udcredit/
+enable=1
+gpgcheck=0
+
+[udcredit-cdh]
+name=Cloudera Packages for UD Networks - $basearch
+baseurl=ftp://serv.bd1.udcredit.com/cdh/5.4.5/$basearch/
+enable=1
+gpgcheck=0

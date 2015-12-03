@@ -1,0 +1,5 @@
+[baidu-bcm]
+name=Baidu cloud monitor(BCM)
+baseurl=http://repo.bcm.bj.baidubce.com/yum
+gpgcheck=0
+enabled=1

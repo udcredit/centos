@@ -1,0 +1,5 @@
+[udcredit-el7]
+name=Extra Packages for UD Networks - $basearch
+baseurl=ftp://serv.bd1.udcredit.com/el7/
+enable=1
+gpgcheck=0

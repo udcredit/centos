@@ -1,0 +1,7 @@
+[epel]
+name=Extra Packages for Enterprise Linux 7 - $basearch
+baseurl=http://mirrors.bj.baidubce.com/epel/7/$basearch/
+failovermethod=priority
+enable=1
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
